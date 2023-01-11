@@ -18,7 +18,7 @@ export const GifApp = () => {
 
         <>
 
-        <h1 className="text-5xl font-bold mb-5 text-center text-black">GIFS Generator</h1>
+        <h1 className="text-5xl font-bold mb-5 text-center text-black">GIFs Generator</h1>
 
         <SearchInput
             onNewSearch={onAddGif}
